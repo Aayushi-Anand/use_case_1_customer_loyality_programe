@@ -1,4 +1,4 @@
-# use_case_1_customer_loyalty_programe
+# use_case_1_customer_loyalty_program
 
                                                                 
                                            ****Introduction****
